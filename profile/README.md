@@ -87,17 +87,17 @@ You can:
 
 ---
 
-## 📈｜Data and activities
+<!-- ## 📈｜Data and activities
 
 <p align="center">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=ErikrafTorg&show_icons=true&theme=tokyonight&hide_rank=true" height="180" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ErikrafTorg&layout=compact&theme=tokyonight&langs_count=10" height="180"/>
 </p>
 
-<!-- Streak — updates daily -->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ErikrafTorg&theme=yellowdark)](https://git.io/streak-stats)
 
-<!-- Contribution graph — updates on every commit -->
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ErikrafTorg&bg_color=0D1117&color=6EE7B7&line=6EE7B7&point=F59E0B&area=true&area_color=6EE7B7&hide_border=true" alt="Contribution Graph"/>
 
 
@@ -105,7 +105,7 @@ You can:
 
 ## 🏆｜GitHub Organization Trophy
 
-<!-- Trophies — always reliable, no auth needed -->
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub Trophies">
     <img
@@ -118,7 +118,7 @@ You can:
 
 </div>
 
----
+--- -->
 
 ## 📫 Contact
 
